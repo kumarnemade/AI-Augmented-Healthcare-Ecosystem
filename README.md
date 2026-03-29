@@ -19,7 +19,7 @@ The project follows a modular 3-step workflow as illustrated by the notebooks in
 
 ### Step 2: Intelligent Triage Logic
 **File:** `Hospital Resource Management & Intelligent Triage.ipynb`
-- **Input:** `Integrated_Hospital_Report.csv` (AI output) + `diabetes_012_health_indicators_BRFSS2015.csv` (Patient history).
+- **Input:** `gtu_pneumonia_model.h5` (AI output model) + `diabetes_012_health_indicators_BRFSS2015.csv` (Patient history).
 - **Logic:** Applies a heuristic decision engine to categorize patients based on comorbid risk factors [1]:
     - **CRITICAL:** Pneumonia detected + High BP or Diabetes $\rightarrow$ Immediate ICU Admission.
     - **HIGH:** Pneumonia detected (No comorbidities) $\rightarrow$ General Ward Monitoring.
