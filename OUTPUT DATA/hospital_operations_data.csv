@@ -1,0 +1,51 @@
+Patient_ID,Diagnosis,High_BP,Diabetes,Priority_Status,Hospital_Action
+P-1000,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1001,Normal,Yes,Yes,STABLE,Outpatient/Home Care
+P-1002,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1003,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1004,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1005,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1006,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1007,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1008,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1009,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1010,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1011,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1012,Pneumonia,No,Yes,CRITICAL,Immediate ICU Admission
+P-1013,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1014,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1015,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1016,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1017,Normal,No,Yes,STABLE,Outpatient/Home Care
+P-1018,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1019,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1020,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1021,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1022,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1023,Normal,No,No,STABLE,Outpatient/Home Care
+P-1024,Pneumonia,Yes,Yes,CRITICAL,Immediate ICU Admission
+P-1025,Normal,No,No,STABLE,Outpatient/Home Care
+P-1026,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1027,Pneumonia,Yes,Yes,CRITICAL,Immediate ICU Admission
+P-1028,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1029,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1030,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1031,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1032,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1033,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1034,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1035,Pneumonia,No,Yes,CRITICAL,Immediate ICU Admission
+P-1036,Pneumonia,Yes,Yes,CRITICAL,Immediate ICU Admission
+P-1037,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1038,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1039,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1040,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1041,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1042,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1043,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1044,Normal,No,No,STABLE,Outpatient/Home Care
+P-1045,Pneumonia,Yes,No,CRITICAL,Immediate ICU Admission
+P-1046,Pneumonia,Yes,Yes,CRITICAL,Immediate ICU Admission
+P-1047,Pneumonia,Yes,Yes,CRITICAL,Immediate ICU Admission
+P-1048,Pneumonia,No,No,HIGH,General Ward Monitoring
+P-1049,Pneumonia,No,No,HIGH,General Ward Monitoring
